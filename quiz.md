@@ -38,7 +38,7 @@
  
     - [ ] a) `matlab cone_volume.m`
     - [ ] b) `run cone_volume.m`
-    - [ ] c) `cone_volume`
+    - [x ] c) `cone_volume`
     - [ ] d) `execute cone_volume`
 
 
