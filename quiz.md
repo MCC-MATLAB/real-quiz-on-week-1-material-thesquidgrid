@@ -10,7 +10,7 @@
 1. What does the command `clear` do in MATLAB?
     - [ ] a) Clears the Command Window.
     - [ ] b) Clears the current figure.
-    - [ ] c) Clears variables from the workspace.
+    - [x] c) Clears variables from the workspace.
     - [ ] d) Clears the command history.
 
 
