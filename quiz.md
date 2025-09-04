@@ -75,13 +75,13 @@
    ```
 
    - [ ] a) MATLAB errors out because width is missing a semicolon.
-   - [ ] b) The workspace is cleared, the Command Window is cleared, variables height and width are created, and the area is displayed.
+   - [x] b) The workspace is cleared, the Command Window is cleared, variables height and width are created, and the area is displayed.
    - [ ] c) MATLAB shows only the value of height.
-   - [x] d) MATLAB does nothing because disp cannot handle numbers.
+   - [ ] d) MATLAB does nothing because disp cannot handle numbers.
 
 
 9. Which MATLAB command immediately stops the execution of a script or function if it’s stuck in a loop?
-   - [ ] a) `ctrl + c`
+   - [x] a) `ctrl + c`
    - [ ] b) `exit`
    - [ ] c) `cancel`
    - [ ] d) `stop`
@@ -90,5 +90,5 @@
 10. Which of the following statements about MATLAB scripts (M-files) is incorrect?
     - [ ] a) A script is a file containing a sequence of MATLAB commands and statements.
     - [ ] b) A script can store variables in the workspace without explicitly returning them.
-    - [ ] c) A script must define input and output arguments in its first line.
+    - [x] c) A script must define input and output arguments in its first line.
     - [ ] d) A script runs in the current workspace, using any existing variables unless they are cleared.
