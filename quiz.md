@@ -35,11 +35,12 @@
    height = 12;
    volume = (pi * radius^2 * height) / 3
    ```
- 
+ NOTE: instructions a little bit unclear. If you have a script and decide to run it through the command window, either cone_volume or run cone_volume.m or run cone_volume will work. 
     - [ ] a) `matlab cone_volume.m`
-    - [ ] b) `run cone_volume.m`
+    - [x] b) `run cone_volume.m`
     - [x] c) `cone_volume`
     - [ ] d) `execute cone_volume`
+    
 
 
 5. Which command(s) would you typically place at the start of an M-file to ensure a fresh environment and a clean Command Window?
